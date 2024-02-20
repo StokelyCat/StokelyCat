@@ -2,8 +2,6 @@
 - 👀 I’m interested in making the world a better place
 - 🌱 I’m currently learning how to enlist github
 - 💞️ I’m looking to collaborate on video creation
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a reclusive scenester.
 
 <!---
